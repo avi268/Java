@@ -1,0 +1,11 @@
+import java.io.*;
+public class First
+{
+	public static void main(String[] args)
+	{
+		int p=100, t=2;
+		float r=20;
+		simple interest= (p*t*r)/100;
+		System.out.println("Result is :" simple interest);
+	}
+}
